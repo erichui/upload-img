@@ -6,3 +6,14 @@ body {
 a {
   color: #00B7FF;
 }
+
+#photos {
+  display: flex;
+}
+.photo {
+  margin-right: 20px;
+}
+img {
+  width: 260px;
+  height: 150px;
+}
